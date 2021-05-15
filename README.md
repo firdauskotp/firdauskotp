@@ -1,4 +1,18 @@
-### Hi there 👋
+### Hi there, firdaus here!
+
+### Intro
+
+Hey, firdaus here. I am a computer engineering student, going to be was :/, meaning I have experience in coding and implementing hardware and software together. My main selling point is Python, using IOT with Raspberry Pi and Arduino as well as teaching
+
+### Teaching??
+
+Yes, besides being a student, I am also a programming teacher. I teach basic python, mobile app development, web development and electronics to students who range from kids to adults.
+
+### Main coding application?
+
+1. I like to make things that can help people in the future
+2. Games
+3. Things that seem fun and challenging to try
 
 <!--
 **firdauskotp/firdauskotp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
