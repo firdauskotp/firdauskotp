@@ -14,6 +14,10 @@ Yes, besides being a student, I am also a programming teacher. I teach basic pyt
 2. Games
 3. Things that seem fun and challenging to try
 
+### What do you mean trying to be like Chihiro Fujisaki?
+
+That is an inside joke for the peeps who play Danganronpa. Chihiro Fujisaki is the Ultimate Programmer ^~^
+
 <!--
 **firdauskotp/firdauskotp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
